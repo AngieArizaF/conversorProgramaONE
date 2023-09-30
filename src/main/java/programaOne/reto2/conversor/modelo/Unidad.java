@@ -1,4 +1,4 @@
-package conversor;
+package programaOne.reto2.conversor.modelo;
 
 public class Unidad {
 
@@ -47,7 +47,7 @@ public class Unidad {
 
 	@Override
 	public String toString() {
-		return this.nombre;
+		return this.abreviatura;
 	}
 	
 	

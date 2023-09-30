@@ -1,4 +1,4 @@
-package conversor;
+package programaOne.reto2.conversor.modelo;
 
 public class Moneda extends Unidad{
 
